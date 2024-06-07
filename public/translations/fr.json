@@ -281,10 +281,27 @@
             "uploadSuccessful": "Le fichier a été ajouté avec succès à la bibliothèque"
         },
         "freeContent": {
-            "title": "Contenu gratuit pour vos Tonies",
-            "navigationTitle": "Contenu gratuit",
-            "text": "Une petite collection de liens vers des fournisseurs de contenu gratuit. Si vous connaissez d'autres sites qui devraient être listés ici (et bien sûr légaux!), faites-le nous savoir dans notre groupe Telegram!",
-            "toExternalFreeContent": "Vers le fournisseur externe"
+            "title": "Contenus pour vos Tonies",
+            "navigationTitle": "Contenus",
+            "textNoJson": "Ici, vous pouvez ajouter diverses sources pour vos étiquettes via un fichier JSON nommé freeContentWebSites.json dans votre répertoire /www/web. Vous pouvez trouver un modèle pour le JSON <exampleJsonLink>ici</exampleJsonLink>, et il y a aussi un guide dans le wiki pour créer des entrées supplémentaires.",
+            "text": "Cette sélection est basée sur votre fichier freeContentWebSites.json dans votre répertoire /www/web (<exampleJsonLink>Télécharger</exampleJsonLink>). Il y a également un guide dans le wiki pour créer des entrées supplémentaires.",
+            "toExternalFreeContent": "Aller chez le fournisseur externe",
+            "addNewContent": "Ajouter une nouvelle entrée",
+            "form": {
+                "save": "Afficher Json",
+                "sourceTitle": "Titre de l'entrée",
+                "sourceTitleRequired": "Le titre de l'entrée est requis",
+                "title": "Titre",
+                "description": "Description",
+                "source": "Lien",
+                "sourceRequired": "Un lien est requis.",
+                "image": "Image (URL)",
+                "imageRequired": "Une URL d'image est requise.",
+                "language": "Langue [Format: de-de]",
+                "ok": "Ok",
+                "copy": "Vous pouvez copier le contenu dans votre freeContentWebSites.json.",
+                "copyHint": "Actuellement, cela se fait encore manuellement. Vous pouvez trouver le freeContentWebSites.json dans votre répertoire /www/web. Éventuellement, l'ajout pourrait être écrit directement dans le JSON."
+            }
         },
         "infoModal": {
             "exists": "Existe:",

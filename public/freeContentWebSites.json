@@ -1,0 +1,47 @@
+[
+    {
+        "sourceTitle": "ohrka.de",
+        "title": "Das hochwertige Hörportal für Kinder",
+        "description": "Bekannte und beliebte Stimmen wie Anke Engelke oder Katharina Thalbach lesen Hörspiele und Hörbücher für Kinder. Über 80 Stunden anhören. Kostenlos, werbefrei. Auch zum downloaden. Pädi-Gütesiegel 2013. Spannende, lustige und vor allem kostenlose Kinderhörspiele zum Hören und als mp3-Datei zum Download.",
+        "source": "https://www.ohrka.de",
+        "image": "https://www.ohrka.de/templates/public/img/logo.png",
+        "language": "de-de",
+        "dateOfAdding": "2024-06-07"
+    },
+    {
+        "sourceTitle": "Vorleser.net",
+        "title": "Kostenlose mp3-Hörbücher und Hörspiele",
+        "description": "750+ kostenlose mp3-Hörbücher und Hörspiele legal als Stream oder zum Download! Von professionellen Sprechern exklusiv für vorleser.net produzierte Hörbücher und Hörspiele",
+        "source": "https://www.vorleser.net",
+        "image": "https://www.vorleser.net/resources/images/favicon/android-chrome-192x192.png",
+        "language": "de-de",
+        "dateOfAdding": "2024-06-07"
+    },
+    {
+        "sourceTitle": "Gratis-Hoerspiele.de",
+        "title": "Gratis Hörspiele & Hörbücher | Kostenlos und legal",
+        "description": "Über 3.000 kostenlose Hörspiele und Hörbücher. Legal und gratis als MP3 runterladen oder streamen! Entdecke täglich neue kostenfreie Downloads und Streams.",
+        "source": "https://www.gratis-hoerspiele.de",
+        "image": "https://www.gratis-hoerspiele.de/wp-content/uploads/2018/02/cropped-symbol-270x270.png",
+        "language": "de-de",
+        "dateOfAdding": "2024-06-07"
+    },
+    {
+        "sourceTitle": "Hörbuch Kostenlos 2024",
+        "title": "Hörbücher kostenlose hören oder herunterladen",
+        "description": "Kostenlose Hörbuch-Sammlung von mehr als 200.000 heutzutage beliebtesten Titeln von vielen weltberühmten Autoren. Hörbücher kostenlos online hören oder herunterladen mit nur einem Klick.",
+        "source": "https://horbuchkostenlos.de/",
+        "image": "https://horbuchkostenlos.de/wp-content/uploads/2022/02/HorbuchKostenlos.png",
+        "language": "de-de",
+        "dateOfAdding": "2024-06-07"
+    },
+    {
+        "sourceTitle": "Internet Archive",
+        "title": "Audio Books & Poetry",
+        "description": "Listen to free audio books and poetry recordings! This library of audio books and poetry features digital recordings and MP3's from the Naropa Poetics Audio Archive, LibriVox, Project Gutenberg, Maria Lectrix, and Internet Archive users.",
+        "source": "https://archive.org/details/audio_bookspoetry",
+        "image": "https://archive.org/services/img/audio_bookspoetry",
+        "language": "en-us",
+        "dateOfAdding": "2024-06-07"
+    }
+]

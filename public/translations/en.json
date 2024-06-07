@@ -281,10 +281,27 @@
             "uploadSuccessful": "The file was added successfully to the library"
         },
         "freeContent": {
-            "title": "Free Content for your Tonies",
-            "navigationTitle": "Free Content",
-            "text": "A small collection of links to providers of free content. If you know of any other sites that should be listed here (and are, of course, legal!), please let us know in our Telegram group!",
-            "toExternalFreeContent": "To the external provider"
+            "title": "Contents for your Tonies",
+            "navigationTitle": "Contents",
+            "textNoJson": "Here you can add various sources for your tags via a JSON file named freeContentWebSites.json in your /www/web directory. You can find a template for the JSON <exampleJsonLink>here</exampleJsonLink>, and there's also a guide in the wiki for creating additional entries.",
+            "text": "This selection is based on your freeContentWebSites.json file in your /www/web directory (<exampleJsonLink>Download</exampleJsonLink>). There's a guide in the wiki for creating additional entries as well.",
+            "toExternalFreeContent": "Go to external provider",
+            "addNewContent": "Add new entry",
+            "form": {
+                "save": "Show Json",
+                "sourceTitle": "Entry Title",
+                "sourceTitleRequired": "Entry title is required",
+                "title": "Title",
+                "description": "Description",
+                "source": "Link",
+                "sourceRequired": "A link is required.",
+                "image": "Image (URL)",
+                "imageRequired": "An image URL is required.",
+                "language": "Language [Format: de-de]",
+                "ok": "Ok",
+                "copy": "You can copy the content to your freeContentWebSites.json.",
+                "copyHint": "Currently, this is still manual. You can find the freeContentWebSites.json in your /www/web directory. Eventually, the addition might be written directly into the JSON."
+            }
         },
         "infoModal": {
             "exists": "Exists:",

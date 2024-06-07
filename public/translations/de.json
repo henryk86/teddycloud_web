@@ -282,10 +282,27 @@
             "uploadSuccessful": "Die Datei wurde der Bibliothek hinzugefügt"
         },
         "freeContent": {
-            "title": "Gratisinhalte für deine Tonies",
-            "navigationTitle": "Gratisinhalte",
-            "text": "Eine kleine Sammlung an Links zu Anbietern von kostenlosen Inhalten. Solltet ihr weitere Seiten kennen, die hier aufgelistet sein sollten (und natürlich legal sind!), dann meldet euch in unserer Telegram-Gruppe!",
-            "toExternalFreeContent": "Zu dem externen Anbieter"
+            "title": "Inhalte für deine Tonies",
+            "navigationTitle": "Inhalte",
+            "textNoJson": "Hier könnt ihr verschiedene Quellen für eure Tags über eine JSON mit dem Namen freeContentWebSites.json in eurem /www/web Verzeichnis hinterlegen. Eine Vorlage für die JSON findet ihr hier <exampleJsonLink>freeContentWebSites.json</exampleJsonLink> und im Wiki gibt es auch eine Hilfe zur Erstellung von weiteren Einträgen. ",
+            "text": "Diese Auswahl basiert auf eurer freeContentWebSites.json in eurem /www/web Verzeichnis (<exampleJsonLink>Download</exampleJsonLink>). Im Wiki gibt es eine Hilfe zur Erstellung von weiteren Einträgen. ",
+            "toExternalFreeContent": "Zu dem externen Anbieter",
+            "addNewContent": "Neuen Eintrag hinzufügen",
+            "form": {
+                "save": "Json anzeigen",
+                "sourceTitle": "Titel des Eintrags",
+                "sourceTitleRequired": "Der Titel des Eintrags ist notwendig",
+                "title": "Titel",
+                "description": "Beschreibung",
+                "source": "Link",
+                "sourceRequired": "Ein Link ist notwendig.",
+                "image": "Bild (URL)",
+                "imageRequired": "Eine Bildurl ist notwendig.",
+                "language": "Sprache [Format: de-de]",
+                "ok": "Ok",
+                "copy": "Du kannst den Inhalt in deine freeContentWebSites.json kopieren.",
+                "copyHint": "Dies aktuell noch manuell notwendig. Du findest die freeContentWebSites.json in deinem /www/web Verzeichnis. Irgendwann wird die Ergänzung vielleicht direkt in die Json geschrieben."
+            }
         },
         "infoModal": {
             "exists": "Existiert:",
