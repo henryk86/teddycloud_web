@@ -280,6 +280,12 @@
             "uploading": "Uploading...",
             "uploadSuccessful": "The file was added successfully to the library"
         },
+        "freeContent": {
+            "title": "Free Content for your Tonies",
+            "navigationTitle": "Free Content",
+            "text": "A small collection of links to providers of free content. If you know of any other sites that should be listed here (and are, of course, legal!), please let us know in our Telegram group!",
+            "toExternalFreeContent": "To the external provider"
+        },
         "infoModal": {
             "exists": "Exists:",
             "model": "Model:",

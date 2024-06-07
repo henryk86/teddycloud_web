@@ -7,6 +7,7 @@ import {
     CloudUploadOutlined,
     UnorderedListOutlined,
     UserAddOutlined,
+    PlusCircleOutlined,
 } from "@ant-design/icons";
 import React, { useState } from "react";
 import { useTranslation } from "react-i18next";
@@ -60,6 +61,11 @@ export const ToniesSubNav = () => {
             key: "system-sounds",
             label: <Link to="/tonies/system-sounds">{t("tonies.system-sounds.navigationTitle")}</Link>,
             icon: React.createElement(SettingOutlined),
+        },
+        {
+            key: "free-content",
+            label: <Link to="/tonies/freecontent">{t("tonies.freeContent.navigationTitle")}</Link>,
+            icon: React.createElement(PlusCircleOutlined),
         },
     ];
 

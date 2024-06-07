@@ -281,6 +281,12 @@
             "uploading": "Lädt hoch",
             "uploadSuccessful": "Die Datei wurde der Bibliothek hinzugefügt"
         },
+        "freeContent": {
+            "title": "Gratisinhalte für deine Tonies",
+            "navigationTitle": "Gratisinhalte",
+            "text": "Eine kleine Sammlung an Links zu Anbietern von kostenlosen Inhalten. Solltet ihr weitere Seiten kennen, die hier aufgelistet sein sollten (und natürlich legal sind!), dann meldet euch in unserer Telegram-Gruppe!",
+            "toExternalFreeContent": "Zu dem externen Anbieter"
+        },
         "infoModal": {
             "exists": "Existiert:",
             "model": "Modell:",

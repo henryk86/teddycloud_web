@@ -29,6 +29,7 @@ import { ConfigProvider, theme } from "antd";
 import { SunOutlined, MoonOutlined, BulbOutlined } from "@ant-design/icons";
 import { ESP32BoxFlashing } from "./pages/tonieboxes/ESP32BoxFlashing";
 import { TonieMeetingPage } from "./pages/home/TonieMeeting";
+import { FreeContentPage } from "./pages/tonies/FreeContent";
 
 function detectColorScheme() {
     const prefersDarkMode = window.matchMedia("(prefers-color-scheme: dark)").matches;
@@ -118,6 +119,7 @@ function App() {
                                     <Route path="/tonies/library" element={<LibraryPage />} />
                                     <Route path="/tonies/encoder" element={<EncoderPage />} />
                                     <Route path="/tonies/tap" element={<TonieAudioPlaylistsPage />} />
+                                    <Route path="/tonies/freecontent" element={<FreeContentPage />} />
                                     <Route path="/tonieboxes" element={<TonieboxesPage />} />
                                     <Route path="/tonieboxes/esp32boxflashing" element={<ESP32BoxFlashing />} />
                                     <Route path="/settings" element={<SettingsPage />} />

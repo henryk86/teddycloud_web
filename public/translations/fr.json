@@ -280,6 +280,12 @@
             "uploading": "Téléchargement...",
             "uploadSuccessful": "Le fichier a été ajouté avec succès à la bibliothèque"
         },
+        "freeContent": {
+            "title": "Contenu gratuit pour vos Tonies",
+            "navigationTitle": "Contenu gratuit",
+            "text": "Une petite collection de liens vers des fournisseurs de contenu gratuit. Si vous connaissez d'autres sites qui devraient être listés ici (et bien sûr légaux!), faites-le nous savoir dans notre groupe Telegram!",
+            "toExternalFreeContent": "Vers le fournisseur externe"
+        },
         "infoModal": {
             "exists": "Existe:",
             "model": "Modèle:",
