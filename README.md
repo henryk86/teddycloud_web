@@ -10,6 +10,10 @@ You'll need to allow CORS for your teddyCloud instance used for development. The
 
 ## NPM Enviroment file '.env'
 
+
+
+
+
 Please place an enviroment file '.env.development.local' in the teddycloud_web directory.
 
 ```
