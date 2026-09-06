@@ -3,6 +3,7 @@
 ## 0.7.1
 
 - gui: fixed missing images in library [https://github.com/toniebox-reverse-engineering/teddycloud_web/issues/320](https://github.com/toniebox-reverse-engineering/teddycloud_web/issues/320)
+- gui: Added "assign to Tonie" action directly from the library file browser [https://github.com/toniebox-reverse-engineering/teddycloud_web/pull/318](https://github.com/toniebox-reverse-engineering/teddycloud_web/pull/318)
 
 ### Commits
 
