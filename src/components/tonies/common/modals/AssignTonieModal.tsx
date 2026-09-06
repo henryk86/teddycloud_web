@@ -129,7 +129,9 @@ export const AssignTonieModal: React.FC<AssignTonieModalProps> = ({
                                 }
                                 title={tonie.tonieInfo.series || t("tonies.unsetTonie")}
                                 description={
-                                    <Text type="secondary">{tonie.tonieInfo.episode || tonie.uid}</Text>
+                                    <Text type="secondary">
+                                        {tonie.tonieInfo.episode || tonie.uid}
+                                    </Text>
                                 }
                             />
                         </List.Item>
