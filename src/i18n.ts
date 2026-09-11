@@ -9,7 +9,7 @@ i18n.use(Backend)
     .use(LanguageDetector)
     .use(initReactI18next)
     .init({
-        supportedLngs: ["en", "de", "fr", "es"],
+        supportedLngs: ["en", "de", "fr", "es", "pl"],
         fallbackLng: "en",
 
         ns: ["teddycloud"],
