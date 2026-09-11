@@ -1771,11 +1771,11 @@
         },
         "navigationTitle": "Tonieboxy",
         "newBoxesAllowed": "Dołączanie do TeddyCloud dozwolone",
-        "newBoxesAllowedText": "Możesz podłączać nowe Tonieboxy do TeddyCloud. Gdy podłączysz już wszystkie swoje boxy, wyłącz ustawienie \"Allow new boxes\" ze względów bezpieczeństwa.",
+        "newBoxesAllowedText": "Możesz podłączać nowe Tonieboxy do TeddyCloud. Ze względów bezpieczeństwa gdy podłączysz już wszystkie swoje boxy, wyłącz ustawienie \"Allow new boxes\" .",
         "noData": "Nie znaleziono Tonieboxów.",
         "noDataText": "Tonieboxy pojawią się dopiero po nawiązaniu pomyślnego połączenia. Upewnij się, że Twój Toniebox jest prawidłowo podłączony.",
         "noNewBoxesAllowed": "Nowe Tonieboxy nie są dozwolone",
-        "noNewBoxesAllowedText": "Nie możesz podłączać nowych Tonieboxów do TeddyCloud. Najpierw włącz ustawienie \"Allow new boxes\". Gdy podłączysz już wszystkie swoje boxy, wyłącz ustawienie \"Allow new boxes\" ze względów bezpieczeństwa.",
+        "noNewBoxesAllowedText": "Nie możesz podłączać nowych Tonieboxów do TeddyCloud. Najpierw włącz ustawienie \"Allow new boxes\". Ze względów bezpieczeństwa gdy podłączysz już wszystkie swoje boxy, wyłącz ustawienie \"Allow new boxes\" .",
         "offline": "offline",
         "online": "online",
         "processing": "Przetwarzanie...",
@@ -1791,7 +1791,7 @@
             "boxSpecific": " (nadpisane dla Tonieboxa)",
             "Label": "Certyfikaty",
             "uploadPath": "Ścieżka przesyłania (certDir):",
-            "uploadTonieboxCertificates": "Prześlij certyfikaty dla Tonieboxa{{name}}"
+            "uploadTonieboxCertificates": "Prześlij certyfikaty dla Tonieboxa {{name}}"
         },
         "warningUseAtYourOwnRisk": "Ostrzeżenie: używasz na własne ryzyko!",
         "warningUseAtYourOwnRiskText": "Flashowanie Tonieboxa spatchowanym firmware unieważni gwarancję i może doprowadzić do uszkodzenia boxa. Postępuj dokładnie zgodnie z instrukcjami i upewnij się, że rozumiesz związane z tym ryzyko."
