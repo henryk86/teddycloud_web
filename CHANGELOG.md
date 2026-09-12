@@ -1,8 +1,25 @@
 # Changelog
 
-## 0.7.1
+## Unreleased
 
 - gui: Added Polish (pl) language support [https://github.com/toniebox-reverse-engineering/teddycloud_web/pull/325](https://github.com/toniebox-reverse-engineering/teddycloud_web/pull/325)
+
+## 0.7.1
+
+- gui: fixed missing images in library [https://github.com/toniebox-reverse-engineering/teddycloud_web/issues/320](https://github.com/toniebox-reverse-engineering/teddycloud_web/issues/320)
+
+### Commits
+
+- [https://github.com/toniebox-reverse-engineering/teddycloud/compare/tc_v0.7.0...tc_v0.7.1](https://github.com/toniebox-reverse-engineering/teddycloud/compare/tc_v0.7.0...tc_v0.7.1)
+- [https://github.com/toniebox-reverse-engineering/teddycloud_web/compare/tcw_v0.7.0...tcw_v0.7.1](https://github.com/toniebox-reverse-engineering/teddycloud_web/compare/tcw_v0.7.0...tcw_v0.7.1)
+
+### Discussion
+
+- [https://forum.revvox.de/t/release-notes-0-7-1/4299](https://forum.revvox.de/t/release-notes-0-7-1/4299)
+
+### GitHub Release
+
+- [https://github.com/toniebox-reverse-engineering/teddycloud/releases/tag/tc_v0.7.1](https://github.com/toniebox-reverse-engineering/teddycloud/releases/tag/tc_v0.7.1)
 
 ## 0.7.0
 
