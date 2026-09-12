@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.7.1
+
+- gui: Added Polish (pl) language support [https://github.com/toniebox-reverse-engineering/teddycloud_web/pull/325](https://github.com/toniebox-reverse-engineering/teddycloud_web/pull/325)
+
 ## 0.7.0
 
 - First TB2 support (not for daily use! Search for beta testers open: [https://t.me/toniebox_reverse_engineering/74847](https://t.me/toniebox_reverse_engineering/74847))
