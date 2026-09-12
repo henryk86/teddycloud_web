@@ -1,12 +1,9 @@
 # Changelog
 
-## Unreleased
-
-- gui: Added Polish (pl) language support [https://github.com/toniebox-reverse-engineering/teddycloud_web/pull/325](https://github.com/toniebox-reverse-engineering/teddycloud_web/pull/325)
-
 ## 0.7.1
 
 - gui: fixed missing images in library [https://github.com/toniebox-reverse-engineering/teddycloud_web/issues/320](https://github.com/toniebox-reverse-engineering/teddycloud_web/issues/320)
+- gui: Added Polish (pl) language support [https://github.com/toniebox-reverse-engineering/teddycloud_web/pull/325](https://github.com/toniebox-reverse-engineering/teddycloud_web/pull/325)
 
 ### Commits
 
