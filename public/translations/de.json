@@ -255,7 +255,7 @@
         "translations": {
             "allTranslationStrings": "Alle Übersetzungsstrings",
             "extraKeys": "Zusätzliche Schlüssel",
-            "hint": "Wenn du eine schlechte Übersetzung siehst, komm bitte über Telegram auf uns zu. Französisch und Spanisch werden derzeit vollständig von ChatGPT übersetzt.",
+            "hint": "Wenn dir eine fehlerhafte Übersetzung auffällt, melde dich bitte bei uns auf Telegram. Nur Englisch, Deutsch, Französisch und Spanisch werden aktiv gepflegt, wobei Französisch und Spanisch derzeit vollständig von KI übersetzt wurden. Alle weiteren Sprachen werden nicht aktiv gepflegt – fehlende Übersetzungen können gerne beigesteuert werden. Du kannst auch weitere Sprachen hinzufügen, indem du eine bestehende Sprachdatei übersetzt, sie als languagecode.json im Ordner public/translations speicherst und anschließend den Server neu startest.",
             "key": "Schlüssel",
             "language": "Sprache",
             "missing": "FEHLT",
@@ -708,12 +708,7 @@
         "invalidCharactersDetected": "Deine Eingabe enthält ungültige Zeichen, wie {{invalidChar}}"
     },
     "language": {
-        "change": "Sprache ändern",
-        "english": "EN",
-        "french": "FR",
-        "german": "DE",
-        "spanish": "ES",
-        "polish": "PL"
+        "change": "Sprache ändern"
     },
     "languageUtil": {
         "af-af": "Afrikaans (Südafrika)",

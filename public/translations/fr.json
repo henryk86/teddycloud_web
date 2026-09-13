@@ -255,7 +255,7 @@
         "translations": {
             "allTranslationStrings": "Toutes les chaînes de traduction",
             "extraKeys": "Clés supplémentaires",
-            "hint": "Si tu vois une mauvaise traduction, reviens vers nous sur Telegram. Le français et l'espagnol sont actuellement complètement traduits par ChatGPT.",
+            "hint": "Si vous remarquez une mauvaise traduction, veuillez nous contacter sur Telegram. Seuls l'anglais, l'allemand, le français et l'espagnol sont activement maintenus, le français et l'espagnol étant actuellement entièrement traduits par IA. Toutes les autres langues supplémentaires ne sont pas activement maintenues ; n'hésitez donc pas à contribuer aux traductions manquantes. Vous pouvez également ajouter d'autres langues en traduisant un fichier de langue existant, en l'enregistrant sous languagecode.json dans le dossier public/translations, puis en redémarrant le serveur.",
             "key": "Clé",
             "language": "Langue",
             "missing": "MANQUANT",
@@ -708,12 +708,7 @@
         "invalidCharactersDetected": "Ta saisie contient des caractères invalides, tels que {{invalidChar}}"
     },
     "language": {
-        "change": "Changer de langue",
-        "english": "EN",
-        "french": "FR",
-        "german": "DE",
-        "spanish": "ES",
-        "polish": "PL"
+        "change": "Changer de langue"
     },
     "languageUtil": {
         "af-af": "Afrikaans (Afrique du Sud)",

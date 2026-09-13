@@ -255,7 +255,7 @@
         "translations": {
             "allTranslationStrings": "Wszystkie ciągi tłumaczeń",
             "extraKeys": "Dodatkowe klucze",
-            "hint": "Jeśli zauważysz błędne tłumaczenie, daj nam znać na Telegramie. Francuski i hiszpański są obecnie w całości przetłumaczone przez ChatGPT.",
+            "hint": "Jeśli zauważysz błędne tłumaczenie, skontaktuj się z nami na Telegramie. Aktywnie utrzymywane są tylko wersje angielska, niemiecka, francuska i hiszpańska, przy czym francuska i hiszpańska są obecnie w całości przetłumaczone przez AI. Pozostałe dodatkowe języki nie są aktywnie utrzymywane, dlatego zachęcamy do uzupełniania brakujących tłumaczeń. Możesz również dodać kolejne języki, tłumacząc istniejący plik językowy, zapisując go jako languagecode.json w folderze public/translations, a następnie ponownie uruchamiając serwer.",
             "key": "Klucz",
             "language": "Język",
             "missing": "BRAK",
@@ -545,6 +545,15 @@
             "uploadSuccessfulForFile": "Plik \"{{file}}\" przesłany pomyślnie.",
             "uploadText": "Kliknij lub przeciągnij pliki do tego obszaru, aby je przesłać",
             "uploadTimeout": "Przekroczono limit czasu przesyłania po {{ms}}ms"
+        },
+        "assignToTonie": {
+            "action": "Przypisz do Tonie",
+            "failedDetails": "Nie udało się przypisać „{{series}}” jako zawartości: ",
+            "failedMessage": "Przypisanie do Tonie nie powiodło się!",
+            "searchPlaceholder": "Szukaj Tonies...",
+            "successDetails": "Plik został pomyślnie przypisany do „{{series}}”!",
+            "successMessage": "Tonie przypisany!",
+            "title": "Przypisz do Tonie"
         }
     },
     "footer": {
@@ -699,12 +708,7 @@
         "invalidCharactersDetected": "Twoje dane zawierają niedozwolone znaki, np. {{invalidChar}}"
     },
     "language": {
-        "change": "Zmień język",
-        "english": "EN",
-        "french": "FR",
-        "german": "DE",
-        "spanish": "ES",
-        "polish": "PL"
+        "change": "Zmień język"
     },
     "languageUtil": {
         "af-af": "Afrikaans (Republika Południowej Afryki)",
@@ -2226,7 +2230,8 @@
             "setNoCloud": "Wyłącz chmurę",
             "unselectAll": "Odznacz wszystko",
             "unsetLive": "Wyłącz live",
-            "unsetNoCloud": "Włącz chmurę"
+            "unsetNoCloud": "Włącz chmurę",
+            "selectAll": "Zaznacz wszystko"
         },
         "system-sounds": {
             "navigationTitle": "Dźwięki systemowe",
@@ -2369,7 +2374,8 @@
             "square": "Kwadratowy",
             "textFontSize": "Rozmiar tekstu",
             "title": "TeddyStudio",
-            "trackTitles": "Tytuły ścieżek (jeden na linię)"
+            "trackTitles": "Tytuły ścieżek (jeden na linię)",
+            "printMarginNotification": "Marginesy wydruku CSS są niezawodnie obsługiwane tylko w Chrome. Aby zapewnić prawidłowy wydruk etykiet, użyj Chrome."
         },
         "title": "Tonies",
         "tonies": {

@@ -255,7 +255,7 @@
         "translations": {
             "allTranslationStrings": "Todas las cadenas de traducción",
             "extraKeys": "Claves adicionales",
-            "hint": "Si ves alguna mala traducción, por favor vuelve a contactarnos por Telegram. El francés y el español están actualmente completamente traducidos por ChatGPT.",
+            "hint": "Si encuentras alguna traducción incorrecta, ponte en contacto con nosotros en Telegram. Solo el inglés, el alemán, el francés y el español se mantienen activamente; actualmente, el francés y el español están traducidos completamente mediante IA. Los demás idiomas adicionales no se mantienen activamente, así que no dudes en contribuir con las traducciones que falten. También puedes añadir más idiomas traduciendo un archivo de idioma existente, guardándolo como languagecode.json en la carpeta public/translations y reiniciando el servidor.",
             "key": "Clave",
             "language": "Idioma",
             "missing": "FALTANTE",
@@ -708,12 +708,7 @@
         "invalidCharactersDetected": "Tu entrada contiene caracteres no válidos, como {{invalidChar}}"
     },
     "language": {
-        "change": "Cambiar idioma",
-        "english": "EN",
-        "french": "FR",
-        "german": "DE",
-        "spanish": "ES",
-        "polish": "PL"
+        "change": "Cambiar idioma"
     },
     "languageUtil": {
         "af-af": "Afrikáans (Sudáfrica)",

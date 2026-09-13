@@ -255,7 +255,7 @@
         "translations": {
             "allTranslationStrings": "All Translation strings",
             "extraKeys": "Extra keys",
-            "hint": "If you see any bad translation, please come back to us on Telegram. French and Spanish are currently completely translated by ChatGPT.",
+            "hint": "If you see any bad translation, please contact us on Telegram. Only English, German, French, and Spanish are actively maintained, with French and Spanish currently translated entirely by AI. All other additional languages are not actively maintained, so feel free to contribute missing translations. You can also add more languages by translating an existing language file, saving it as languagecode.json in the public/translations folder, and restarting the server.",
             "key": "Key",
             "language": "Language",
             "missing": "MISSING",
@@ -708,12 +708,7 @@
         "invalidCharactersDetected": "Your input contains invalid characters, such as {{invalidChar}}"
     },
     "language": {
-        "change": "Change language",
-        "english": "EN",
-        "french": "FR",
-        "german": "DE",
-        "spanish": "ES",
-        "polish": "PL"
+        "change": "Change language"
     },
     "languageUtil": {
         "af-af": "Afrikaans (South Africa)",
