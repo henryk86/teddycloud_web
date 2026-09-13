@@ -7,7 +7,7 @@ export interface Translations {
     [key: string]: string | Translations | TranslationEntry[];
 }
 
-export const LANGUAGES = ["en", "fr", "de", "es"] as const;
+export const LANGUAGES = ["en", "fr", "de", "es", "pl"] as const;
 export const BASE_LANG = "en";
 
 export type LanguageCode = (typeof LANGUAGES)[number];

@@ -712,7 +712,8 @@
         "english": "EN",
         "french": "FR",
         "german": "DE",
-        "spanish": "ES"
+        "spanish": "ES",
+        "polish": "PL"
     },
     "languageUtil": {
         "af-af": "Afrikaans (Afrique du Sud)",
