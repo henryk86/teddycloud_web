@@ -1,21 +1,17 @@
 name: Changelog Check
-
 on:
     pull_request:
         branches:
             - master
             - develop
-
 jobs:
     changelog:
         runs-on: ubuntu-latest
-
         steps:
             - name: Checkout repository
               uses: actions/checkout@v4
               with:
                   fetch-depth: 0
-
             - name: Check CHANGELOG.md
               shell: bash
               run: |
