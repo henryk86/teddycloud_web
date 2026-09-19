@@ -372,7 +372,7 @@ export const TonieCard: React.FC<{
                     {modelName || t("tonies.unsetTonie")}
                 </div>
                 {rows.length === 0 ? (
-                    <span>{t("tonies.customEditor.unknownModel")}</span>
+                    <span>{t("tonies.informationModal.unknownModel")}</span>
                 ) : (
                     rows.map((r) => (
                         <div key={r.label}>

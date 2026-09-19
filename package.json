@@ -48,7 +48,8 @@
         "build": "tsc && vite build",
         "preview": "vite preview",
         "format": "prettier . --write",
-        "format:check": "prettier . --check"
+        "format:check": "prettier . --check",
+        "check:translations": "node scripts/check-translations.mjs"
     },
     "eslintConfig": {
         "extends": [
